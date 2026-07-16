@@ -14,7 +14,7 @@ const PORT = process.env.PORT || 5005;
 
 // We can safely use standard CORS now
 app.use(cors({
-    origin: 'http://localhost:5173',
+    origin: 'https://nihon-zing.vercel.app/',
     credentials: true,
 }));
 
