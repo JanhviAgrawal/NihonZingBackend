@@ -1,4 +1,3 @@
-const express = require('require');
 const express = require('express');
 require('dotenv').config();
 
