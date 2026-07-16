@@ -1,3 +1,4 @@
+const express = require('require');
 const express = require('express');
 require('dotenv').config();
 
@@ -12,10 +13,15 @@ const app = express();
 // If your .env file has PORT=5000, you must change it there too!
 const PORT = process.env.PORT || 5005; 
 
-// We can safely use standard CORS now
+// --- UPDATED CORS CONFIGURATION ---
+// Accepting both origin formats ensures the preflight request won't fail.
 app.use(cors({
-    origin: 'https://nihon-zing.vercel.app',
+    origin: [
+        'https://nihon-zing.vercel.app', 
+        'https://nihon-zing.vercel.app/'
+    ],
     credentials: true,
+    optionsSuccessStatus: 200
 }));
 
 app.use(morgan('dev'));
