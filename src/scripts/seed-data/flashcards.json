@@ -1,0 +1,438 @@
+[
+  {
+    "id": 1,
+    "title": "Vocabulary I",
+    "cards": [
+      {
+        "id": 1,
+        "image": "Flashcard1.png",
+        "frontText": "Apple",
+        "backText": "सेब (Seb)",
+        "text3": "applee",
+        "text4": "APPLE"
+      },
+      {
+        "id": 2,
+        "image": "https://placehold.co/400x300/black/white?text=Image+2",
+        "frontText": "Book",
+        "backText": "किताब (Kitaab)"
+      },
+      {
+        "id": 3,
+        "image": "https://placehold.co/400x300/black/white?text=Image+3",
+        "frontText": "Cat",
+        "backText": "बिल्ली (Billi)"
+      },
+      {
+        "id": 4,
+        "image": "https://placehold.co/400x300/black/white?text=Image+1",
+        "frontText": "Dog",
+        "backText": "कुत्ता (Kutta)"
+      },
+      {
+        "id": 5,
+        "image": "https://placehold.co/400x300/black/white?text=Image+2",
+        "frontText": "Elephant",
+        "backText": "हाथी (Haathi)"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "question": "What is 'Apple' in Hindi?",
+        "options": [
+          "Seb",
+          "Kela",
+          "Aam",
+          "Santra"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 2,
+        "question": "What is 'Book' in Hindi?",
+        "options": [
+          "Pen",
+          "Kitaab",
+          "Table",
+          "Chair"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 3,
+        "question": "Translate 'Billi'",
+        "options": [
+          "Dog",
+          "Cow",
+          "Cat",
+          "Rat"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 4,
+        "question": "What is 'Kutta'?",
+        "options": [
+          "Cat",
+          "Dog",
+          "Fish",
+          "Bird"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 5,
+        "question": "What is 'Haathi'?",
+        "options": [
+          "Lion",
+          "Tiger",
+          "Elephant",
+          "Bear"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Vocabulary II: Nature",
+    "cards": [
+      {
+        "id": 1,
+        "image": "https://placehold.co/400x300/black/white?text=Image+3",
+        "frontText": "Sun",
+        "backText": "सूरज (Sooraj)"
+      },
+      {
+        "id": 2,
+        "image": "https://placehold.co/400x300/black/white?text=Image+1",
+        "frontText": "Moon",
+        "backText": "चाँद (Chaand)"
+      },
+      {
+        "id": 3,
+        "image": "https://placehold.co/400x300/black/white?text=Image+2",
+        "frontText": "Star",
+        "backText": "तारा (Taara)"
+      },
+      {
+        "id": 4,
+        "image": "https://placehold.co/400x300/black/white?text=Image+3",
+        "frontText": "Water",
+        "backText": "पानी (Paani)"
+      },
+      {
+        "id": 5,
+        "image": "https://placehold.co/400x300/black/white?text=Image+1",
+        "frontText": "Sky",
+        "backText": "आसमान (Aasmaan)"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "question": "What is 'Sun' in Hindi?",
+        "options": [
+          "Chaand",
+          "Sooraj",
+          "Taara",
+          "Aasmaan"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 2,
+        "question": "Translate 'Chaand'",
+        "options": [
+          "Sun",
+          "Star",
+          "Moon",
+          "Cloud"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 3,
+        "question": "What is 'Star' in Hindi?",
+        "options": [
+          "Sooraj",
+          "Baadal",
+          "Taara",
+          "Paani"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 4,
+        "question": "What is 'Water'?",
+        "options": [
+          "Aag",
+          "Paani",
+          "Hawa",
+          "Zameen"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 5,
+        "question": "Translate 'Aasmaan'",
+        "options": [
+          "Earth",
+          "Fire",
+          "Sky",
+          "Water"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Grammar Basics",
+    "cards": [
+      {
+        "id": 1,
+        "image": "https://placehold.co/400x300/black/white?text=Image+2",
+        "frontText": "Noun",
+        "backText": "संज्ञा (Sangya)"
+      },
+      {
+        "id": 2,
+        "image": "https://placehold.co/400x300/black/white?text=Image+3",
+        "frontText": "Verb",
+        "backText": "क्रिया (Kriya)"
+      },
+      {
+        "id": 3,
+        "image": "https://placehold.co/400x300/black/white?text=Image+1",
+        "frontText": "Pronoun",
+        "backText": "सर्वनाम (Sarvanaam)"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "question": "What is the Hindi term for 'Noun'?",
+        "options": [
+          "Kriya",
+          "Sangya",
+          "Visheshan",
+          "Sarvanaam"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 2,
+        "question": "What is 'Verb' in Hindi?",
+        "options": [
+          "Kriya",
+          "Kaal",
+          "Vachan",
+          "Ling"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 3,
+        "question": "Translate 'Pronoun'",
+        "options": [
+          "Sangya",
+          "Visheshan",
+          "Sarvanaam",
+          "Kriya"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Common Phrases",
+    "cards": [
+      {
+        "id": 1,
+        "image": "https://placehold.co/400x300/black/white?text=Image+3",
+        "frontText": "Hello",
+        "backText": "नमस्ते (Namaste)"
+      },
+      {
+        "id": 2,
+        "image": "https://placehold.co/400x300/black/white?text=Image+1",
+        "frontText": "Thank You",
+        "backText": "धन्यवाद (Dhanyavaad)"
+      },
+      {
+        "id": 3,
+        "image": "https://placehold.co/400x300/black/white?text=Image+2",
+        "frontText": "Please",
+        "backText": "कृपया (Kripya)"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "question": "How do you say 'Hello'?",
+        "options": [
+          "Alvida",
+          "Namaste",
+          "Dhanyavaad",
+          "Kripya"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 2,
+        "question": "What does 'Dhanyavaad' mean?",
+        "options": [
+          "Please",
+          "Sorry",
+          "Thank You",
+          "Welcome"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 3,
+        "question": "Translate 'Kripya'",
+        "options": [
+          "Yes",
+          "No",
+          "Please",
+          "Thanks"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Kanji: Animals",
+    "cards": [
+      {
+        "id": 1,
+        "image": "https://placehold.co/400x300/black/white?text=Image+1",
+        "frontText": "犬",
+        "backText": "Dog (Inu)"
+      },
+      {
+        "id": 2,
+        "image": "https://placehold.co/400x300/black/white?text=Image+2",
+        "frontText": "猫",
+        "backText": "Cat (Neko)"
+      },
+      {
+        "id": 3,
+        "image": "https://placehold.co/400x300/black/white?text=Image+3",
+        "frontText": "鳥",
+        "backText": "Bird (Tori)"
+      },
+      {
+        "id": 4,
+        "image": "https://placehold.co/400x300/black/white?text=Image+1",
+        "frontText": "魚",
+        "backText": "Fish (Sakana)"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "question": "Which Kanji represents 'Cat'?",
+        "options": [
+          "犬",
+          "猫",
+          "鳥",
+          "魚"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 2,
+        "question": "What does '犬' mean?",
+        "options": [
+          "Cat",
+          "Bird",
+          "Dog",
+          "Fish"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 3,
+        "question": "Which Kanji represents 'Bird'?",
+        "options": [
+          "牛",
+          "馬",
+          "鳥",
+          "猫"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Kanji: Colors",
+    "cards": [
+      {
+        "id": 1,
+        "image": "https://placehold.co/400x300/black/white?text=Image+2",
+        "frontText": "赤",
+        "backText": "Red (Aka)"
+      },
+      {
+        "id": 2,
+        "image": "https://placehold.co/400x300/black/white?text=Image+3",
+        "frontText": "青",
+        "backText": "Blue (Ao)"
+      },
+      {
+        "id": 3,
+        "image": "https://placehold.co/400x300/black/white?text=Image+1",
+        "frontText": "黒",
+        "backText": "Black (Kuro)"
+      },
+      {
+        "id": 4,
+        "image": "https://placehold.co/400x300/black/white?text=Image+2",
+        "frontText": "白",
+        "backText": "White (Shiro)"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "question": "Which Kanji is 'Red'?",
+        "options": [
+          "青",
+          "白",
+          "赤",
+          "黒"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 2,
+        "question": "What does '青' mean?",
+        "options": [
+          "Black",
+          "Blue",
+          "White",
+          "Red"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 3,
+        "question": "Which Kanji is 'Black'?",
+        "options": [
+          "黒",
+          "白",
+          "赤",
+          "青"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  }
+]
